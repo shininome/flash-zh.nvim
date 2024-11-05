@@ -1,6 +1,6 @@
 # flash-zh.nvim
 
-基于[flash.nvim](https://github.com/folke/flash.nvim)以及小鹤双拼，neovim 中文跳转插件。
+基于[flash.nvim](https://github.com/folke/flash.nvim)以及 ~~小鹤双拼~~ 虎码，neovim 中文跳转插件。
 
 ![iShot_2023-10-05_19 32 53](https://github.com/rainzm/flash-zh.nvim/assets/22927169/4c3ca124-0fee-48a2-b7c6-17391afe8d0e)
 
