@@ -1,5 +1,5 @@
 local flash = require("flash")
-local flypy = require("flash-zh.flypy")
+local flypy = require("flash-zh.hu")
 
 local M = {}
 
